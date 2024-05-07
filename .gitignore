@@ -1,0 +1,35 @@
+# IDE / editor
+.idea/
+.vscode/
+.ipynb_checkpoints/
+
+# cache
+__pycache__/
+*.pyc
+.cache/
+*.bak
+
+# Environments
+.env/
+.venv/
+venv/
+
+# Quick ignore pattern
+*_dev.*
+*_dev/
+*_ignore.*
+*_ignore/
+
+# Scattered data / weights
+*.csv
+*.pth
+*.h5
+*.pkl
+*.db
+.fuse_hidden*
+
+# Project specific
+
+# keep the empty folder
+!*.gitkeep
+redis/pull-sources/pull-sources
